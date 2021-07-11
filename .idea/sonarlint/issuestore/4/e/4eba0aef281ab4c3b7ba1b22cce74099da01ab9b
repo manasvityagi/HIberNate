@@ -1,0 +1,16 @@
+
+G
+java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ8Ë‰¢‘©/
+V
+java:S1128"4Remove this unused import 'javax.persistence.Table'.(˜øŒ“øÿÿÿÿ8««‘©/
+G
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8Ì‰¢‘©/
+Z
+java:S1128	"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚8Í‰¢‘©/
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8Í‰¢‘©/
+X
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8Í‰¢‘©/
+R
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8Î‰¢‘©/
+]	java:S125G"<This block of commented-out lines of code should be removed.(Ò’§õşÿÿÿÿ8Û‰¢‘©/
